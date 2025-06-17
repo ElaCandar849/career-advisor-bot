@@ -9,3 +9,5 @@
 - !kariyer komutu ile öneri
 - Butonlar ve açılır menülerle detaylı seçim
 - Kullanıcıdan alınan veriye göre kişiselleştirme
+
+# Bunlar benim fikirlerim
